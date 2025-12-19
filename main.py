@@ -10,11 +10,11 @@ from functools import wraps
 from werkzeug.security import generate_password_hash, check_password_hash
 from forms import CreatePostForm, RegisterForm, LoginForm, CommentForm
 import os
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import smtplib
 import hashlib
 
-load_dotenv()
+# load_dotenv()
 
 
 
