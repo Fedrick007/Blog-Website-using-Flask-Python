@@ -26,7 +26,7 @@ EMAIL_KEY=email
 PASSWORD_KEY=password  
 
 ## 🧪 Local Setup
-git clone https://github.com/your-username/your-repo-name.git  
+git clone https://github.com/Fedrick007/Blog-Website-using-Flask-Python.git  
 cd your-repo-name  
 python -m venv .venv  
 .venv\Scripts\activate  
